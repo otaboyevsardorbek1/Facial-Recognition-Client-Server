@@ -69,7 +69,7 @@ To add more faces to be detected simply add a labelled `.jpg` or `.png` file to 
 
 ## Deployment
 
-If you're intersted in deploying the flask server have a look at this [Repository](https://github.com/techwithtim/Flask-App-Hosted-On-VPS) and this [YouTube Video](https://www.youtube.com/watch?v=KgAtZ1LlNiQ)
+If you're intersted in deploying the flask server have a look at this [Repository](https://github.com/otaboyevsardorbek1/Flask-App-Hosted-On-VPS) and this [YouTube Video](https://www.youtube.com/watch?v=KgAtZ1LlNiQ)
 
 
 # 💻 Launch Your Software Development Career Today!  
